@@ -1,1 +1,1 @@
-Each branch contains the Solutions to the related Assignments.
+Each branch contains the solutions to the related assignments.
